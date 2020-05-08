@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: lightskyblue;
+    padding: 15px;
+    box-shadow: 0px 20px 60px #9e9e9e33;
+}
+.contain{
+    width: 100%;
+    margin: auto;
+    box-sizing: border-box;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: white;
+}
+img{
+    width: 90px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 20px;
+    padding: 0;
+}
+.first{
+    width: 45%;
+    height: 500px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #03a9f482;
+    float: left;
+}
+.first img{
+    width: 45%;
+    height: 100%;
+    margin: 0;
+    object-fit: contain;
+    object-position: center;
+}
+.second{}
+.second{
+    width: 55%;
+    height: 500px;
+    background-color: #2196f3db;
+    color: white;
+    display: inline-block;
+    box-sizing: border-box;
+    float: left;
+    margin: auto;
+}
+
+.info h2{
+
+font-size: 20px;
+
+font-weight: 200;
+
+text-align: initial;
+
+margin: 0;
+}
+ .info h5{
+
+text-align: initial;
+
+font-size: 11px;
+
+font-weight: 300;
+
+margin-top: 5px;
+
+margin-bottom: 20px;
+
+}   
+.info{
+    margin: auto;
+    width: 35%;
+    height: 100%;
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: auto;
+}
+h4{
+    text-align: initial;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+form{}
+
+label{
+    margin: 0;
+    padding: 0;
+
+}
+
+input{
+
+padding: 12px;
+
+display: block;
+
+width: 100%;
+
+margin-bottom: 5px;
+
+border-radius: 5px;
+
+text-transform: capitalize;
+
+font-weight: 100;
+
+border: 0px;
+}
+
+.btn{
+
+width: auto;
+
+padding: 10px 20px;
+
+text-transform: uppercase;
+
+font-size: 10px;
+
+font-weight: 100;
+
+color: #0093ff;
+
+background-color: #ffffff;
+}
+
+
+.under{
+
+}
+.under ul{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+.under ul li{
+    margin-top: 18px;
+    display: inline;
+    margin: auto;
+}
+.under ul li a{
+    font-size: 12px;
+    font-weight: 200;
+    margin-right: 8px;
+    margin-top: 8px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+}
+
+
